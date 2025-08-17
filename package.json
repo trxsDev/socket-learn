@@ -1,0 +1,20 @@
+{
+  "name": "socket-learn",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "TRXS",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "devDependencies": {
+    "express": "^5.1.0"
+  },
+  "dependencies": {
+    "nodemon": "^3.1.10",
+    "socket.io": "^4.8.1"
+  }
+}
